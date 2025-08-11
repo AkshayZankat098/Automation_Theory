@@ -3,9 +3,11 @@ package JavaTheory.Java_Theory;
 public class Roadmap_Theory {
 
 /*
-     JDK: The first step of installation helps us to compile the code into machine language.
-     JVM
-     JRE
+     JDK > JRE > JVM
+     JDK: (Complete java software) The first step of installation helps us to compile the code into machine language.
+     JRE: Install to run java based applications
+     JVM: Part of JRE & responsible for converting plain english code in 'byte code' and that understand by any machine. Also, the JVM is responsible for compiling (Check mistake in code line or not) our code.
+
      Naming convention : PascalNamingConvention / camelNamingConvention / sank_naming_convention
      Run code process : Source code >Compiler did by javac (Convert into byte code or machine understanding language : .java source files into .class bytecode files) >  JVM
      Variables :
@@ -17,7 +19,6 @@ public class Roadmap_Theory {
      Math class
      Input from user
      Operators
-
 
     1) Java coding :
     - Check if it's a prime number
