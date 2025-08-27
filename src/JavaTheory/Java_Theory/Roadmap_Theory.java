@@ -88,6 +88,7 @@ Java coding :
 8) What is top Array important methods?
 9) What is casting in java ?
 10) What garbage collection concepts in java?
+11) What is int and Integer ?
 
 */
 
