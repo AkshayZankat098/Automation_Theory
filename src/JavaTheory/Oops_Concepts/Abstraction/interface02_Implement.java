@@ -7,4 +7,5 @@ public class interface02_Implement implements Interface01 {
     public void TestMethod() {
         System.out.println("Method is implemented");
     }
+
 }

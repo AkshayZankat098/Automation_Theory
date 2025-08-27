@@ -20,7 +20,7 @@ public class Roadmap_Theory {
      Input from user
      Operators
 
-    1) Java coding :
+Java coding :
     - Check if it's a prime number
     - Same code for below all the problem
            (- Find the sum of first 'N' natural numbers
@@ -37,9 +37,6 @@ public class Roadmap_Theory {
     - Find the diagonal sum (Not solved)
     - Determine the matrix T sum (Not solved)
     - Java 101 session 7 is Important
-
-     What is stack and heap memory
-     What is top Array important methods?
 
  1) What is static and non - static methods ::
  Static methods: Can be called without creating an object of the class, Belong to the class. (Syntax: ClassName.staticMethodName();)
@@ -77,15 +74,21 @@ public class Roadmap_Theory {
     public static void main(String args) : passing String as an argument instead of String[] array
 
  5) Access modifiers in java:
- public : What it means: Anyone can access it.
- protected: What it means: Only accessible within the same package and by subclasses.
- default (no modifier): What it means: Only accessible within the same package.
- private: What it means: Only accessible within the same class.
+ public: Anyone can access it.
+ protected: Only accessible within the same package and by subclasses.
+ default (no modifier): Only accessible within the same package.
+ private: Only accessible within the same class.
 
  6) What is parameters and arguments:
  Parameters : String name in greet(String name)
  Arguments : "Akshay" in greet("Akshay")
 
 
+7) What is stack and heap memory
+8) What is top Array important methods?
+9) What is casting in java ?
+10) What garbage collection concepts in java?
+
 */
+
 }

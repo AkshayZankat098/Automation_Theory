@@ -42,7 +42,7 @@ public class Java_Loops {
     }
 
     public static void BreakExample() {
-        int i = 1;
+        ;int i = 1;
 
         while (true) {
             System.out.println("Hello message" + i);
