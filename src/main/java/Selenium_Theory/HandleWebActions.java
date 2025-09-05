@@ -88,6 +88,7 @@ public class HandleWebActions {
     12) Take screenshot handle
     14) File Upload & Download Handling
     15) Shadow DOM Element Handling
+    16) Add screenshot and generate reports
 
  */
 
