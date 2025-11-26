@@ -2,7 +2,6 @@ package RestAssured;
 public class RestAssured_Theory {
 
 /*
-
 -------------------------------------------------- Basic Of APIs -------------------------------------------------------
 
 What is XML and JSON response & why required ?
@@ -28,8 +27,9 @@ Collection : Collection is like a folder that holds a bunch of API requests. Thi
 We can create, rename and delete collection , Also If we want to run all APIs then simply Run the whole collection
 
 -------------------------------------------------- HTTP Requests -------------------------------------------------------
-
-Request --→ API --→ Processing --→ Response
+Client Side : Frontend web page/Mobile app
+Server : The computer/system where your backend API code runs
+HTTPS Request (Client Side) --→ API (Server Side) --→ Processing (Server Side) --→ Response (The server sends the response back)
 
 1) GET : Retrieve the data from the server or database
 2) POST : Create new data into server or database
@@ -60,7 +60,7 @@ Schema Validation – Whether response matches defined schema.
 - Main uses of create framework is code Re-usability (Write once, use multiple times.),
 - Maintainability (Ease of modifying, fixing, and enhancing the system), Readability (Easy to understand and maintain)
 
->>>>- Below is the folder structure
+>>>> Below is the folder structure
 
 src-main-java : Framework logic (Abstract_Method, POM structure file & POJOs for rest assured)
 src-main-resource : If any resource is required then add
