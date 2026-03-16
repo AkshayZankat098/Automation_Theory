@@ -105,7 +105,7 @@ public class Array_theory {
             for (int j = 0; j < d[i].length; j++) {
                 System.out.print(d[i][j] + " "); // Print elements of each row
             }
-            System.out.println();               // Move to the next line after each row
+            System.out.println();               // Move to the next line after each number row
         }
     }
 }
